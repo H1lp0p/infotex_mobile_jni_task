@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">infotex_jni_task</string>
+    <string name="btn_sum">+</string>
+    <string name="btn_mul">*</string>
+    <string name="btn_div">/</string>
+    <string name="btn_sub">-</string>
+    <string name="help">Type numbers to \"Number 1\" and \"Number 2\". Then press btn with the required mathimatical operation</string>
+    <string name="res_hint">res</string>
+</resources>
